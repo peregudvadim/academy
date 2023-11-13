@@ -38,6 +38,7 @@ public class Task2 {
                     break;
                 default:
                     System.out.println("Unsupported type");
+                    break;
             }
         }
     }

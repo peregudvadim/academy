@@ -4,39 +4,39 @@ package by.academy.homework1;
 import java.util.Scanner;
 
 public class Task1 {
-    double skidka(double sp, int vs) {
-        double stoimost = sp - (sp * vs / 100);
-        System.out.println("Стоимость покупки с " + vs + "% " + "скидкой составляет " + stoimost);
-        return stoimost;
+    double applyDiscount(double sp, int vs) {
+        double cost = sp - (sp * vs / 100);
+        System.out.println("Стоимость покупки с " + vs + "% " + "скидкой составляет " + cost);
+        return cost;
     }
 }
 
 class Task1App {
     public static void main(String[] args) {
         for (; ; ) {
-            Task1 summaPokupki = new Task1();
+            Task1 purchaseSum = new Task1();
             Scanner inSum = new Scanner(System.in);
             Scanner inAge = new Scanner(System.in);
             System.out.print("Введите сумму покупки: ");
             double varSum = inSum.nextDouble();
-            int velichinaSkidki;
+            System.out.print("Введите возраст покупателя:");
+            int varAge = inAge.nextInt();
+            int volDiscount;
             if (varSum >= 400) {
-                velichinaSkidki = 20;
-                summaPokupki.skidka(varSum, velichinaSkidki);
+                volDiscount = 20;
+                purchaseSum.applyDiscount(varSum, volDiscount);
             } else if (varSum >= 300) {
-                velichinaSkidki = 15;
-                summaPokupki.skidka(varSum, velichinaSkidki);
+                volDiscount = 15;
+                purchaseSum.applyDiscount(varSum, volDiscount);
             } else if (varSum >= 200) {
-                System.out.print("Введите возраст покупателя:");
-                int varAge = inAge.nextInt();
-                velichinaSkidki = (varAge >= 18) ? 16 : 9;
-                summaPokupki.skidka(varSum, velichinaSkidki);
+                volDiscount = (varAge >= 18) ? 16 : 9;
+                purchaseSum.applyDiscount(varSum, volDiscount);
             } else if (varSum >= 100) {
-                velichinaSkidki = 7;
-                summaPokupki.skidka(varSum, velichinaSkidki);
+                volDiscount = 7;
+                purchaseSum.applyDiscount(varSum, volDiscount);
             } else if (varSum > 0) {
-                velichinaSkidki = 5;
-                summaPokupki.skidka(varSum, velichinaSkidki);
+                volDiscount = 5;
+                purchaseSum.applyDiscount(varSum, volDiscount);
             } else {
                 System.out.println("Программа будет завершена");
                 break;
