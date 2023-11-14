@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15a3ca52-fd18-487f-bb34-dcbd7cf55310" name="Changes" comment="">
+    <list default="true" id="15a3ca52-fd18-487f-bb34-dcbd7cf55310" name="Changes" comment="HomeWork_01_corr_01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task1App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task1App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/homework1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/homework1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework1/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework1/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework1/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework1/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +46,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.Application (4)">
     <configuration name="Application (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.academy.homework1.Application" />
       <module name="academy" />
@@ -121,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application (4)" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1App" />
         <item itemvalue="Application.Application (5)" />
-        <item itemvalue="Application.Application (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -154,11 +147,26 @@
       <workItem from="1699816248490" duration="48000" />
       <workItem from="1699878662598" duration="33000" />
       <workItem from="1699879339392" duration="635000" />
-      <workItem from="1699882167353" duration="1157000" />
+      <workItem from="1699882167353" duration="1283000" />
+      <workItem from="1699907377568" duration="17000" />
+      <workItem from="1699973425371" duration="2394000" />
     </task>
+    <task id="LOCAL-00001" summary="HomeWork_01_corr_01">
+      <option name="closed" value="true" />
+      <created>1699883437735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699883437735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWork_01_corr_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork_01_corr_01" />
   </component>
 </project>

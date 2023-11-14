@@ -14,8 +14,9 @@ public class Application {
         System.out.println("Коту без имени исполнилось " + cat1.age + " лет");
         cat2.initials = cat2.nickname.charAt(0);
         System.out.println("Первая буква в имени кота " + cat2.nickname + " ' " + cat2.initials + " ' ");
-        cat1.setHomeAnimal(false);
-        cat2.setHomeAnimal(true);
+        boolean isHome;
+        cat1.setHomeAnimal();
+        cat2.setHomeAnimal();
     }
 }
 
@@ -30,9 +31,8 @@ class Cat {
         return isHomeAnimal;
     }
 
-    public void setHomeAnimal(boolean homeAnimal) {
-        isHomeAnimal = homeAnimal;
-        if (isHomeAnimal) {
+    public void setHomeAnimal() {
+        if (nickname != null) {
             System.out.println(nickname + " является домашним котом");
         } else {
             System.out.println("Кот без имени абсолютно дикий");
