@@ -3,6 +3,8 @@ package by.academy.homework2;
 import java.io.IOException;
 import java.util.Scanner;
 public class Solution {
+    private static final Scanner scanner = new Scanner(System.in);
+
     private static int pairs(int k, int[] arr) {
         int pairsCount = 0;
         for (int i = 0; i < arr.length - 1; i++) {
@@ -12,20 +14,20 @@ public class Solution {
             for (int j = i + 1; j < arr.length; j++) {
                 if (arr[i] == arr[j]) {
                     pairsCount = -1;
-                    System.out.println("Массив содержит дубликаты!");
+                    System.out.println("РњР°СЃСЃРёРІ СЃРѕРґРµСЂР¶РёС‚ РґСѓР±Р»РёРєР°С‚С‹!");
                     break;
                 }
                 if (k < 0 || k > Math.pow(10, 9)) {
                     pairsCount = -1;
-                    System.out.println("Целевое значение выходит за пределы допустимого!");
+                    System.out.println("Р¦РµР»РµРІРѕРµ Р·РЅР°С‡РµРЅРёРµ РІС‹С…РѕРґРёС‚ Р·Р° РїСЂРµРґРµР»С‹ РґРѕРїСѓСЃС‚РёРјРѕРіРѕ!");
                     break;
                 }
                 if (arr[i] < 0 || arr[i] > Math.pow(2, 31) - 1) {
                     pairsCount = -1;
-                    System.out.println("Значение элемента массива выходит за пределы допустимого!");
+                    System.out.println("Р—РЅР°С‡РµРЅРёРµ СЌР»РµРјРµРЅС‚Р° РјР°СЃСЃРёРІР° РІС‹С…РѕРґРёС‚ Р·Р° РїСЂРµРґРµР»С‹ РґРѕРїСѓСЃС‚РёРјРѕРіРѕ!");
                     break;
                 }
-                if (Math.abs(arr[i] - arr[j]) == k) {
+                if (arr[i] - arr[j] == k || arr[j] - arr[i] == k) {
                     pairsCount++;
                 }
             }
@@ -33,22 +35,20 @@ public class Solution {
         return pairsCount;
     }
 
-    private static final Scanner scanner = new Scanner(System.in);
-
     public static void main(String[] args) throws IOException {
-        System.out.println("Введите через пробел размер массива и целевое значение");
+        System.out.println("Р’РІРµРґРёС‚Рµ С‡РµСЂРµР· РїСЂРѕР±РµР» СЂР°Р·РјРµСЂ РјР°СЃСЃРёРІР° Рё С†РµР»РµРІРѕРµ Р·РЅР°С‡РµРЅРёРµ");
         String[] nk = scanner.nextLine().split(" ");
         int n = Integer.parseInt(nk[0]);
         if (n <= 2 || n >= Math.pow(10, 5)) {
-            System.out.println("Размер массива выходит за пределы допустимого!");
+            System.out.println("Р Р°Р·РјРµСЂ РјР°СЃСЃРёРІР° РІС‹С…РѕРґРёС‚ Р·Р° РїСЂРµРґРµР»С‹ РґРѕРїСѓСЃС‚РёРјРѕРіРѕ!");
             return;
         }
         int k = Integer.parseInt(nk[1]);
         int[] arr = new int[n];
-        System.out.println("Введите " + n + " значений через пробел без дубликатов");
+        System.out.println("Р’РІРµРґРёС‚Рµ " + n + " Р·РЅР°С‡РµРЅРёР№ С‡РµСЂРµР· РїСЂРѕР±РµР» Р±РµР· РґСѓР±Р»РёРєР°С‚РѕРІ");
         String[] arrItems = scanner.nextLine().split(" ");
         if (arrItems.length != n) {
-            System.out.println("Размер введенного массива не соответствует указанному размеру массива!");
+            System.out.println("Р Р°Р·РјРµСЂ РІРІРµРґРµРЅРЅРѕРіРѕ РјР°СЃСЃРёРІР° РЅРµ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ СѓРєР°Р·Р°РЅРЅРѕРјСѓ СЂР°Р·РјРµСЂСѓ РјР°СЃСЃРёРІР°!");
             return;
         }
         for (int i = 0; i < n; i++) {
@@ -56,7 +56,7 @@ public class Solution {
         }
         int pairsCount = pairs(k, arr);
         if (pairsCount != -1) {
-            System.out.println(pairsCount + " пар(ы), разность которых равна " + k);
+            System.out.println(pairsCount + " РїР°СЂ(С‹), СЂР°Р·РЅРѕСЃС‚СЊ РєРѕС‚РѕСЂС‹С… СЂР°РІРЅР° " + k);
         }
         scanner.close();
     }

@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/by/academy/homework2/Solution.java" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/src/by/academy/homework2/Task21.java" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/src/by/academy/homework2/Task24.java" charset="windows-1251" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/by/academy/homework2/Solution.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/academy/homework2/Task21.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/academy/homework2/Task22.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/academy/homework2/Task23.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/academy/homework2/Task24.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

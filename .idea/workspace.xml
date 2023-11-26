@@ -4,10 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15a3ca52-fd18-487f-bb34-dcbd7cf55310" name="Changes" comment="HomeWork_01_corr_01">
+    <list default="true" id="15a3ca52-fd18-487f-bb34-dcbd7cf55310" name="Changes" comment="HomeWork_02">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/homework1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework1/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/homework1/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework1/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/Task21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/Task22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/Task23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/Task24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task24.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,26 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/IT_Academy/PROJ/academy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Application (4)">
-    <configuration name="Application (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework1.Application" />
+}]]></component>
+  <component name="RunManager" selected="Application.Task22">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework2.Solution" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework1.*" />
+          <option name="PATTERN" value="by.academy.homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework1.Application" />
+    <configuration name="Task21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework2.Task21" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework1.*" />
+          <option name="PATTERN" value="by.academy.homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework1.Task1App" />
+    <configuration name="Task22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework2.Task22" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework1.*" />
+          <option name="PATTERN" value="by.academy.homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework1.Task2" />
+    <configuration name="Task23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework2.Task23" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework1.*" />
+          <option name="PATTERN" value="by.academy.homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework1.Task3" />
+    <configuration name="Task24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework2.Task24" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework1.*" />
+          <option name="PATTERN" value="by.academy.homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application (4)" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1App" />
-        <item itemvalue="Application.Application (5)" />
+        <item itemvalue="Application.Task22" />
+        <item itemvalue="Application.Task24" />
+        <item itemvalue="Application.Task23" />
+        <item itemvalue="Application.Task21" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +162,26 @@
       <workItem from="1699879339392" duration="635000" />
       <workItem from="1699882167353" duration="1283000" />
       <workItem from="1699907377568" duration="17000" />
-      <workItem from="1699973425371" duration="2394000" />
+      <workItem from="1699973425371" duration="2616000" />
+      <workItem from="1699985489904" duration="48000" />
+      <workItem from="1700147483448" duration="101000" />
+      <workItem from="1700404688670" duration="526000" />
+      <workItem from="1700416189876" duration="292000" />
+      <workItem from="1700422710071" duration="78000" />
+      <workItem from="1700424757396" duration="484000" />
+      <workItem from="1700472231851" duration="226000" />
+      <workItem from="1700476513520" duration="364000" />
+      <workItem from="1700476919473" duration="28000" />
+      <workItem from="1700922523239" duration="3784000" />
+      <workItem from="1700926414627" duration="2860000" />
+      <workItem from="1700932060151" duration="2921000" />
+      <workItem from="1700935448066" duration="3982000" />
+      <workItem from="1700940340988" duration="23000" />
+      <workItem from="1700984971038" duration="242000" />
+      <workItem from="1700993657238" duration="22000" />
+      <workItem from="1701003861179" duration="1067000" />
+      <workItem from="1701004942373" duration="1150000" />
+      <workItem from="1701006165984" duration="1046000" />
     </task>
     <task id="LOCAL-00001" summary="HomeWork_01_corr_01">
       <option name="closed" value="true" />
@@ -159,14 +191,49 @@
       <option name="project" value="LOCAL" />
       <updated>1699883437735</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HomeWork_01_corr_02">
+      <option name="closed" value="true" />
+      <created>1699975979525</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699975979525</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HomeWork_02">
+      <option name="closed" value="true" />
+      <created>1701006084861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701006084861</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HomeWork_01_corr_01" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork_01_corr_01" />
+    <MESSAGE value="HomeWork_01_corr_02" />
+    <MESSAGE value="HomeWork_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork_02" />
   </component>
 </project>

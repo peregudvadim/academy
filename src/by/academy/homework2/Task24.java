@@ -3,18 +3,19 @@ package by.academy.homework2;
 import java.util.Random;
 import java.util.Scanner;
 public class Task24 {
+
     public static void main(String[] args) {
         int n;
-        String[] suits = {"Пик", "Черв", "Треф", "Бубен"};
-        String[] rank = {"2", "3", "4", "5", "6", "7", "8", "9", "10", "Валет", "Дама", "Король", "Туз"};
+        String[] suits = {"РџРёРє", "Р§РµСЂРІ", "РўСЂРµС„", "Р‘СѓР±РµРЅ"};
+        String[] rank = {"2", "3", "4", "5", "6", "7", "8", "9", "10", "Р’Р°Р»РµС‚", "Р”Р°РјР°", "РљРѕСЂРѕР»СЊ", "РўСѓР·"};
         int deckLength = suits.length * rank.length;
         for (; ; ) {
             Scanner scanner = new Scanner(System.in);
-            System.out.println("Введите количество игроков");
+            System.out.println("Р’РІРµРґРёС‚Рµ РєРѕР»РёС‡РµСЃС‚РІРѕ РёРіСЂРѕРєРѕРІ");
             if (scanner.hasNextInt()) {
                 n = scanner.nextInt();
                 if (n <= 0 || n * 5 > deckLength) {
-                    System.out.println("Количество игроков не может быть таким");
+                    System.out.println("РљРѕР»РёС‡РµСЃС‚РІРѕ РёРіСЂРѕРєРѕРІ РЅРµ РјРѕР¶РµС‚ Р±С‹С‚СЊ С‚Р°РєРёРј");
                 } else {
                     scanner.close();
                     break;
@@ -27,7 +28,7 @@ public class Task24 {
                 deck[suits.length * i + j] = rank[i] + " " + suits[j];
             }
         }
-        for (int j = 0; j <= 10; j++) {
+        for (int j = 0; j <= n; j++) {
             for (int i = 0; i < deckLength; i++) {
                 int r = new Random().nextInt(0, deckLength - 1);
                 String temp = deck[r];
@@ -37,8 +38,9 @@ public class Task24 {
         }
         for (int i = 0; i < n * 5; i++) {
             System.out.println(deck[i]);
-            if (i % 5 == 4)
+            if (i % 5 == 4) {
                 System.out.println();
+            }
         }
     }
 }

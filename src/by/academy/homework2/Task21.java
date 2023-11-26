@@ -5,16 +5,16 @@ public class Task21 {
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.println("Введите строку");
+        System.out.println("Р’РІРµРґРёС‚Рµ СЃС‚СЂРѕРєСѓ");
         String firstString = scanner.nextLine();
-        System.out.println("Введите строку для сравнения");
+        System.out.println("Р’РІРµРґРёС‚Рµ СЃС‚СЂРѕРєСѓ РґР»СЏ СЃСЂР°РІРЅРµРЅРёСЏ");
         String secondString = scanner.nextLine();
         boolean areStringsEqual = areStringsEqual(firstString, secondString);
-        System.out.println("Строки" + ((areStringsEqual) ? " равны" : " не равны"));
+        System.out.println("РЎС‚СЂРѕРєРё" + ((areStringsEqual) ? " СЂР°РІРЅС‹" : " РЅРµ СЂР°РІРЅС‹"));
         scanner.close();
     }
 
-    public static boolean areStringsEqual(String firstString, String secondString) {
+    private static boolean areStringsEqual(String firstString, String secondString) {
         if (firstString.length() != secondString.length()) {
             return false;
         }

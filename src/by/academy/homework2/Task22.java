@@ -5,15 +5,15 @@ public class Task22 {
     public static void main(String[] args) {
         int n;
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Сколько слов вы желаете сравнить?");
+        System.out.println("РЎРєРѕР»СЊРєРѕ СЃР»РѕРІ РІС‹ Р¶РµР»Р°РµС‚Рµ СЃСЂР°РІРЅРёС‚СЊ?");
         for (; ; ) {
             if (!scanner.hasNextInt()) {
-                System.out.println("Повторяю, сколько слов вы желаете сравнить?");
+                System.out.println("РџРѕРІС‚РѕСЂСЏСЋ, СЃРєРѕР»СЊРєРѕ СЃР»РѕРІ РІС‹ Р¶РµР»Р°РµС‚Рµ СЃСЂР°РІРЅРёС‚СЊ?");
                 scanner = new Scanner(System.in);
             } else {
                 n = scanner.nextInt();
                 if (n < 2) {
-                    System.out.println("Слов должно быть больше 1");
+                    System.out.println("РЎР»РѕРІ РґРѕР»Р¶РЅРѕ Р±С‹С‚СЊ Р±РѕР»СЊС€Рµ 1");
                 } else {
                     break;
                 }
@@ -23,7 +23,7 @@ public class Task22 {
         int[] place = new int[n];
         String[] words = new String[n];
         for (int i = 0; i < n; i++) {
-            System.out.println("Введите слово " + (i + 1));
+            System.out.println("Р’РІРµРґРёС‚Рµ СЃР»РѕРІРѕ " + (i + 1));
             String word = scanner.next();
             count = countSymbols(word);
             place[i] = count;
@@ -37,10 +37,10 @@ public class Task22 {
                 position = i;
             }
         }
-        System.out.println("Слово с минимальным количеством уникальных символов '" + words[position] + "'");
+        System.out.println("РЎР»РѕРІРѕ СЃ РјРёРЅРёРјР°Р»СЊРЅС‹Рј РєРѕР»РёС‡РµСЃС‚РІРѕРј СѓРЅРёРєР°Р»СЊРЅС‹С… СЃРёРјРІРѕР»РѕРІ '" + words[position] + "'");
     }
 
-    public static int countSymbols(String word) {
+    private static int countSymbols(String word) {
         int[] letters = new int[65000];
         char[] charArray = word.toCharArray();
         for (char c : charArray) {

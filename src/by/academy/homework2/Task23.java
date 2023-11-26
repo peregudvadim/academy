@@ -5,27 +5,26 @@ public class Task23 {
     public static void main(String[] args) {
         String word1, word2;
         for (; ; ) {
-            Scanner scanner = new Scanner(System.in);
-            System.out.println("Введите первое слово, состоящее из четного числа букв ");
-            word1 = scanner.next();
+            Scanner sc = new Scanner(System.in);
+            System.out.println("Р’РІРµРґРёС‚Рµ РїРµСЂРІРѕРµ СЃР»РѕРІРѕ, СЃРѕСЃС‚РѕСЏС‰РµРµ РёР· С‡РµС‚РЅРѕРіРѕ С‡РёСЃР»Р° Р±СѓРєРІ");
+            word1 = sc.next();
             if (word1.length() % 2 != 0) {
-                System.out.println("Количество букв должно быть четным");
+                System.out.println("РљРѕР»РёС‡РµСЃС‚РІРѕ Р±СѓРєРІ РґРѕР»Р¶РЅРѕ Р±С‹С‚СЊ С‡РµС‚РЅС‹Рј");
             } else {
                 break;
             }
         }
         for (; ; ) {
-            Scanner scanner = new Scanner(System.in);
-            System.out.println("Введите второе слово, состоящее из четного числа букв ");
-            word2 = scanner.next();
+            Scanner sc = new Scanner(System.in);
+            System.out.println("Р’РІРµРґРёС‚Рµ РІС‚РѕСЂРѕРµ СЃР»РѕРІРѕ, СЃРѕСЃС‚РѕСЏС‰РµРµ РёР· С‡РµС‚РЅРѕРіРѕ С‡РёСЃР»Р° Р±СѓРєРІ");
+            word2 = sc.next();
             if (word2.length() % 2 != 0) {
-                System.out.println("Количество букв должно быть четным");
+                System.out.println("РљРѕР»РёС‡РµСЃС‚РІРѕ Р±СѓРєРІ РґРѕР»Р¶РЅРѕ Р±С‹С‚СЊ С‡РµС‚РЅС‹Рј");
             } else {
                 break;
             }
         }
-        System.out.println();
-        System.out.println("Словом, состоящим из первой половины  '" + word1 + "' и второй половины '" + word2 + "' будет ");
+        System.out.println("РЎР»РѕРІРѕРј, СЃРѕСЃС‚РѕСЏС‰РёРј РёР· РїРµСЂРІРѕР№ РїРѕР»РѕРІРёРЅС‹ '" + word1 + "' Рё РІС‚РѕСЂРѕР№ РїРѕР»РѕРІРёРЅС‹ '" + word2 + "' Р±СѓРґРµС‚");
         System.out.println(word1.toUpperCase().substring(0, word1.length() / 2) + word2.toLowerCase().substring(word2.length() / 2, word2.length()));
     }
 }
