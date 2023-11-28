@@ -1,6 +1,8 @@
 //created by Vadim Peregud
 package by.academy.homework2;
+
 import java.util.Scanner;
+
 public class Task21 {
     private static final Scanner scanner = new Scanner(System.in);
 
@@ -11,6 +13,7 @@ public class Task21 {
         String secondString = scanner.nextLine();
         boolean areStringsEqual = areStringsEqual(firstString, secondString);
         System.out.println("Строки" + ((areStringsEqual) ? " равны" : " не равны"));
+
         scanner.close();
     }
 
@@ -23,16 +26,23 @@ public class Task21 {
         for (char c : charArray) {
             letters[c]++;
         }
+        int countMatch = 0;
         for (int i = 0; i < secondString.length(); i++) {
-            int c = secondString.charAt(i);
-            if (letters[c] == 0) {
+            if (letters[secondString.charAt(i)] == 0) {
                 return false;
+
+//                добавленная проверка
+            } else {
+                countMatch++;
+                letters[secondString.charAt(i)]--;
             }
         }
-        return true;
+            if (countMatch == charArray.length) {
+                return true;
+            } else return false;
+
     }
 }
-
 
 
 
