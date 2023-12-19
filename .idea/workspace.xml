@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15a3ca52-fd18-487f-bb34-dcbd7cf55310" name="Changes" comment="HomeWork_02">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="15a3ca52-fd18-487f-bb34-dcbd7cf55310" name="Changes" comment="HomeWork_02_corr_1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework1/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task21.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework2/Task24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/Task21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/Task22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/Task23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/Task24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task24.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +18,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="15b48ab1-068e-4024-bea4-1e77233b4a1d" />
+        <option name="url" value="https://github.com/peregudvadim/academy.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/by/academy/homework1/Task2.java" root0="SKIP_HIGHLIGHTING" />
@@ -55,17 +58,17 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "File.Encoding",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task22">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework2.Solution" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework3.Main" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework2.*" />
+          <option name="PATTERN" value="by.academy.homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task21" />
         <item itemvalue="Application.Task22" />
         <item itemvalue="Application.Task24" />
         <item itemvalue="Application.Task23" />
-        <item itemvalue="Application.Task21" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +184,24 @@
       <workItem from="1700993657238" duration="22000" />
       <workItem from="1701003861179" duration="1067000" />
       <workItem from="1701004942373" duration="1150000" />
-      <workItem from="1701006165984" duration="1046000" />
+      <workItem from="1701006165984" duration="1244000" />
+      <workItem from="1701031652324" duration="257000" />
+      <workItem from="1701117777139" duration="19000" />
+      <workItem from="1701159282550" duration="37000" />
+      <workItem from="1701181138076" duration="2472000" />
+      <workItem from="1701195927285" duration="42000" />
+      <workItem from="1702761143421" duration="79000" />
+      <workItem from="1702802518005" duration="206000" />
+      <workItem from="1702802736558" duration="250000" />
+      <workItem from="1702802998394" duration="11946000" />
+      <workItem from="1702825122483" duration="4318000" />
+      <workItem from="1702830288564" duration="164000" />
+      <workItem from="1702845246382" duration="72000" />
+      <workItem from="1702845955407" duration="202000" />
+      <workItem from="1702900172072" duration="825000" />
+      <workItem from="1702974599317" duration="313000" />
+      <workItem from="1702974975462" duration="6758000" />
+      <workItem from="1702981885817" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="HomeWork_01_corr_01">
       <option name="closed" value="true" />
@@ -207,7 +227,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701006084861</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HomeWork_02_corr_1">
+      <option name="closed" value="true" />
+      <created>1701007292359</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701007292359</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HomeWork_02_corr_1">
+      <option name="closed" value="true" />
+      <created>1701183604297</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701183604297</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +270,7 @@
     <MESSAGE value="HomeWork_01_corr_01" />
     <MESSAGE value="HomeWork_01_corr_02" />
     <MESSAGE value="HomeWork_02" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork_02" />
+    <MESSAGE value="HomeWork_02_corr_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork_02_corr_1" />
   </component>
 </project>

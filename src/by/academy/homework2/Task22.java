@@ -28,6 +28,7 @@ public class Task22 {
             count = countSymbols(word);
             place[i] = count;
             words[i] = word;
+
         }
         int minimum = place[0];
         int position = 0;
