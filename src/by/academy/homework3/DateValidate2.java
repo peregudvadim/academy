@@ -9,10 +9,6 @@ public class DateValidate2 implements Validator{
         return p;
     }
 
-    @Override
-    public boolean validate(String string) {
-        return getPattern().matcher(string).matches();
-    }
 }
 
 

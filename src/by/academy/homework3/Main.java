@@ -110,6 +110,7 @@ public class Main {
                     continue;
                 case "0":
                     cycle = false;
+                    continue;
                 default :
                         System.out.println("Что-то не то нажалось");
 

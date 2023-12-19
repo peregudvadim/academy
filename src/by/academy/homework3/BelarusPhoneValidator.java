@@ -10,10 +10,5 @@ public class BelarusPhoneValidator implements Validator {
     public Pattern getPattern() {
         return p;
     }
-
-    @Override
-    public boolean validate(String string) {
-        return getPattern().matcher(string).matches();
-    }
 }
 
