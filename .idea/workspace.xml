@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15a3ca52-fd18-487f-bb34-dcbd7cf55310" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework4/task_4_1/CustomDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework4/task_4_1/DateApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework4/task_4_2/Body.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework4/task_4_2/BodyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework4/task_4_3/GenArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework4/task_4_3/GenArrayApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework4/task_4_4/CustomIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework4/task_4_4/IteratorApp.java" afterDir="false" />
+    <list default="true" id="15a3ca52-fd18-487f-bb34-dcbd7cf55310" name="Changes" comment="25_01_2024">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework3/AmericanPhoneValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework3/AmericanPhoneValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework3/BelarusPhoneValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework3/BelarusPhoneValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework3/DateValidate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework3/DateValidate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework3/DateValidate2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework3/DateValidate2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework3/EmailValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework3/EmailValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework3/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,17 +62,17 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IteratorApp">
-    <configuration name="BodyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework4.task_4_2.BodyApp" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework5.Solution" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework4.task_4_2.*" />
+          <option name="PATTERN" value="by.academy.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework4.task_4_1.DateApp" />
+    <configuration name="Task_05_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework5.Task_05_3" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework4.task_4_1.*" />
+          <option name="PATTERN" value="by.academy.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenArrayApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework4.task_4_3.GenArrayApp" />
+    <configuration name="Task_05_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework5.Task_05_4" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework4.task_4_3.*" />
+          <option name="PATTERN" value="by.academy.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework4.task_4_4.IteratorApp" />
+    <configuration name="Task_05_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework5.Task_05_5" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework4.task_4_4.*" />
+          <option name="PATTERN" value="by.academy.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework3.Main" />
+    <configuration name="Task_05_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework5.Task_05_6" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework3.*" />
+          <option name="PATTERN" value="by.academy.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IteratorApp" />
-        <item itemvalue="Application.GenArrayApp" />
-        <item itemvalue="Application.BodyApp" />
-        <item itemvalue="Application.DateApp" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Task_05_6" />
+        <item itemvalue="Application.Task_05_5" />
+        <item itemvalue="Application.Task_05_4" />
+        <item itemvalue="Application.Task_05_3" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +215,9 @@
       <workItem from="1703924883314" duration="256000" />
       <workItem from="1704039203889" duration="47000" />
       <workItem from="1704132534941" duration="445000" />
-      <workItem from="1705135845263" duration="15794000" />
+      <workItem from="1705135845263" duration="16019000" />
+      <workItem from="1705159357960" duration="153000" />
+      <workItem from="1706174418816" duration="719000" />
     </task>
     <task id="LOCAL-00001" summary="HomeWork_01_corr_01">
       <option name="closed" value="true" />
@@ -283,7 +275,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702992902467</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="13_01_2024">
+      <option name="closed" value="true" />
+      <created>1705153051649</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705153051649</updated>
+    </task>
+    <task id="LOCAL-00009" summary="25_01_2024">
+      <option name="closed" value="true" />
+      <created>1706175121868</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706175121868</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,6 +321,9 @@
     <MESSAGE value="HomeWork_02" />
     <MESSAGE value="HomeWork_02_corr_1" />
     <MESSAGE value="03_HomeWork_19_12_2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="03_HomeWork_19_12_2023" />
+    <MESSAGE value="13_01_2024" />
+    <MESSAGE value="25_01_2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="25_01_2024" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
