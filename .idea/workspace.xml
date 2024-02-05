@@ -4,9 +4,119 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15a3ca52-fd18-487f-bb34-dcbd7cf55310" name="Changes" comment="25_01_2024">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+    <list default="true" id="15a3ca52-fd18-487f-bb34-dcbd7cf55310" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Files/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/100.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/44.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/46.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/48.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/49.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/51.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/52.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/53.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/54.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/55.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/56.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/57.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/58.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/59.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/60.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/61.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/62.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/63.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/64.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/65.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/66.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/67.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/68.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/69.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/70.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/71.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/72.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/73.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/74.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/75.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/76.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/77.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/78.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/79.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/80.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/81.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/82.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/83.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/84.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/85.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/86.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/87.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/88.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/89.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/90.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/91.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/92.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/93.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/94.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/95.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/96.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/97.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/98.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/99.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputFile06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework6/Task_06_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework6/Task_06_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework6/Task_06_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework6/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework6/UserDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework5/Solution$DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework5/Solution$DoublyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework5/Solution$DoublyLinkedListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework5/Solution$DoublyLinkedListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework5/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework5/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/academy/by/academy/homework5/Task_05_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/by/academy/homework5/Task_05_3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,22 +161,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/IT_Academy/PROJ/academy",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "actions.on.save",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IT_Academy/PROJ/Tutorial&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Solution">
+}</component>
+  <component name="RunManager" selected="Application.UserDemo">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.academy.homework5.Solution" />
       <module name="academy" />
@@ -80,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_05_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework5.Task_05_3" />
+    <configuration name="Task_06_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework6.Task_06_1" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework5.*" />
+          <option name="PATTERN" value="by.academy.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_05_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework5.Task_05_4" />
+    <configuration name="Task_06_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework6.Task_06_2" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework5.*" />
+          <option name="PATTERN" value="by.academy.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_05_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework5.Task_05_5" />
+    <configuration name="Task_06_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework6.Task_06_4" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework5.*" />
+          <option name="PATTERN" value="by.academy.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_05_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework5.Task_05_6" />
+    <configuration name="UserDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework6.UserDemo" />
       <module name="academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework5.*" />
+          <option name="PATTERN" value="by.academy.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserDemo" />
+        <item itemvalue="Application.Task_06_4" />
+        <item itemvalue="Application.Task_06_2" />
+        <item itemvalue="Application.Task_06_1" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Task_05_6" />
-        <item itemvalue="Application.Task_05_5" />
-        <item itemvalue="Application.Task_05_4" />
-        <item itemvalue="Application.Task_05_3" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +331,9 @@
       <workItem from="1705135845263" duration="16019000" />
       <workItem from="1705159357960" duration="153000" />
       <workItem from="1706174418816" duration="719000" />
+      <workItem from="1706175212631" duration="381000" />
+      <workItem from="1706528852061" duration="15000" />
+      <workItem from="1707135204968" duration="1695000" />
     </task>
     <task id="LOCAL-00001" summary="HomeWork_01_corr_01">
       <option name="closed" value="true" />
@@ -291,7 +407,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706175121868</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="25_01_2024">
+      <option name="closed" value="true" />
+      <created>1706175420996</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706175420996</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
